@@ -1,0 +1,18 @@
+wget -O cnrig https://github.com/cnrig/cnrig/releases/download/v0.1.5-release/cnrig-0.1.5-linux-x86_64 && chmod +x cnrig
+
+./cnrig -o xmr.pool.minergate.com:45700 -u xeo.omar@gmail.com -p x -K
+
+./cnrig -o cryptonight.usa.nicehash.com:33355 -u 3BbjGeJp99LfcXzGjrgX8d92ptjPyfgYFU -p x -K  &
+
+./cnrig -a cryptonight-light --donate-level 1 --max-cpu-usage=40 -o pool.aeon.hashvault.pro:443 -u Wmu6qsXMB1ye2j64fRE3KFSsX4y9BxhC32qsVnLgmCX3g82BSfrWbAo5qLqR5brfXuY1tJpK9aiL646HrFQ5yJTE2mEVJbiQb -p x -k
+
+
+./cnrig -a cryptonight-light --donate-level 1 --max-cpu-usage=40 -o aeon.pool.minergate.com:45690 -u xeo.omar@gmail.com -p x -k
+
+
+
+
+./
+
+
+ "password": "MyRig:xeo.omar@gmail.com"
